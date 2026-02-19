@@ -1,1 +1,14 @@
-# .github
+## P-MATRIX
+
+The Coordinate System & Protocol for Autonomous Agent Runtime Governance.
+
+### Specification
+- 📄 [3.5 Runtime State Paper](https://doi.org/10.5281/zenodo.18682846) · [Schema](https://pmatrix.io/schema/runtime-state/1.0.0/schema.json)
+- 📄 [4.0 Mutual Protocol Paper](https://doi.org/10.5281/zenodo.18683912)
+
+### Reference Encoders
+- 🔧 [pmatrix-encoder v1.0.0](https://github.com/p-matrix/pmatrix-encoder) — 3.5 Runtime State
+- 🔧 [pmatrix-protocol-encoder v0.1.1](https://github.com/p-matrix/pmatrix-protocol-encoder) — 4.0 Protocol
+
+### Links
+- 🌐 [pmatrix.io](https://pmatrix.io)
