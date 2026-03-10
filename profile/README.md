@@ -35,4 +35,4 @@ openclaw plugins install @pmatrix/openclaw-monitor
 
 ### Links
 
-🌐 [p-matrix.io](https://p-matrix.io) · 📦 [npm @pmatrix/openclaw-monitor](https://www.npmjs.com/package/@pmatrix/openclaw-monitor) · ✉️ architect@p-matrix.io
+🌐 [p-matrix.io](https://p-matrix.io) · 📦 [npm @pmatrix/openclaw-monitor](https://www.npmjs.com/package/@pmatrix/openclaw-monitor) · 🐦 [@pmatrix_](https://x.com/pmatrix_) · ✉️ architect@p-matrix.io
