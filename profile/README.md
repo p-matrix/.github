@@ -6,7 +6,11 @@ P-MATRIX gives AI agents a structured risk coordinate system and real-time gover
 
 ---
 
-### OpenClaw Plugin — Real-Time Safety Monitor
+### Runtime Safety Monitors
+
+One governance engine, two runtimes:
+
+#### OpenClaw Plugin
 
 [![npm](https://img.shields.io/npm/v/@pmatrix/openclaw-monitor?label=%40pmatrix%2Fopenclaw-monitor&color=blue)](https://www.npmjs.com/package/@pmatrix/openclaw-monitor)
 
@@ -14,13 +18,26 @@ P-MATRIX gives AI agents a structured risk coordinate system and real-time gover
 openclaw plugins install @pmatrix/openclaw-monitor
 ```
 
+→ Source: **[p-matrix/openclaw-monitor](https://github.com/p-matrix/openclaw-monitor)**
+
+#### Claude Code Monitor
+
+[![npm](https://img.shields.io/npm/v/@pmatrix/claude-code-monitor?label=%40pmatrix%2Fclaude-code-monitor&color=blue)](https://www.npmjs.com/package/@pmatrix/claude-code-monitor)
+
+```bash
+npm install -g @pmatrix/claude-code-monitor
+```
+
+→ Source: **[p-matrix/claude-code-monitor](https://github.com/p-matrix/claude-code-monitor)**
+
+#### Shared Capabilities
+
 - 🛡️ **Safety Gate** — blocks or confirms high-risk tool calls before execution
 - 🔑 **Credential Guard** — detects OpenAI, AWS, GitHub, Stripe patterns on-device
 - ☠️ **Kill Switch** — terminates runaway agents instantly
-- 📊 **Live Grade A–E** — real-time risk trajectory via WebSocket
+- 📊 **Live Grade A–E** — real-time risk trajectory via 4-axis coordinate system
 
 → Dashboard: **[app.pmatrix.io](https://app.pmatrix.io)**
-→ Source: **[p-matrix/openclaw-monitor](https://github.com/p-matrix/openclaw-monitor)**
 
 ---
 
@@ -35,4 +52,4 @@ openclaw plugins install @pmatrix/openclaw-monitor
 
 ### Links
 
-🌐 [p-matrix.io](https://p-matrix.io) · 📦 [npm @pmatrix/openclaw-monitor](https://www.npmjs.com/package/@pmatrix/openclaw-monitor) · 🐦 [@pmatrix_](https://x.com/pmatrix_) · ✉️ architect@p-matrix.io
+🌐 [p-matrix.io](https://p-matrix.io) · 📦 [npm](https://www.npmjs.com/org/pmatrix) · 🐦 [@pmatrix_](https://x.com/pmatrix_) · ✉️ architect@p-matrix.io
