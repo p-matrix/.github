@@ -8,7 +8,7 @@ P-MATRIX gives AI agents a structured risk coordinate system and real-time gover
 
 ### Runtime Safety Monitors
 
-One governance engine, three runtimes:
+One governance engine, four runtimes:
 
 #### OpenClaw Plugin
 
@@ -39,6 +39,16 @@ npm install -g @pmatrix/cursor-monitor
 ```
 
 → Source: **[p-matrix/cursor-monitor](https://github.com/p-matrix/cursor-monitor)**
+
+#### Gemini CLI Monitor
+
+[![npm](https://img.shields.io/npm/v/@pmatrix/gemini-cli-monitor?label=%40pmatrix%2Fgemini-cli-monitor&color=blue)](https://www.npmjs.com/package/@pmatrix/gemini-cli-monitor)
+
+```bash
+npm install -g @pmatrix/gemini-cli-monitor
+```
+
+→ Source: **[p-matrix/gemini-cli-monitor](https://github.com/p-matrix/gemini-cli-monitor)**
 
 #### Shared Capabilities
 
