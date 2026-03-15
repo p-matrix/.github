@@ -18,7 +18,7 @@ One governance engine, four runtimes:
 openclaw plugins install @pmatrix/openclaw-monitor
 ```
 
-→ Source: **[p-matrix/openclaw-monitor](https://github.com/p-matrix/openclaw-monitor)**
+> Source: **[p-matrix/openclaw-monitor](https://github.com/p-matrix/openclaw-monitor)**
 
 #### Claude Code Monitor
 
@@ -28,7 +28,7 @@ openclaw plugins install @pmatrix/openclaw-monitor
 npm install -g @pmatrix/claude-code-monitor
 ```
 
-→ Source: **[p-matrix/claude-code-monitor](https://github.com/p-matrix/claude-code-monitor)**
+> Source: **[p-matrix/claude-code-monitor](https://github.com/p-matrix/claude-code-monitor)**
 
 #### Cursor Monitor
 
@@ -38,7 +38,7 @@ npm install -g @pmatrix/claude-code-monitor
 npm install -g @pmatrix/cursor-monitor
 ```
 
-→ Source: **[p-matrix/cursor-monitor](https://github.com/p-matrix/cursor-monitor)**
+> Source: **[p-matrix/cursor-monitor](https://github.com/p-matrix/cursor-monitor)**
 
 #### Gemini CLI Monitor
 
@@ -48,7 +48,7 @@ npm install -g @pmatrix/cursor-monitor
 npm install -g @pmatrix/gemini-cli-monitor
 ```
 
-→ Source: **[p-matrix/gemini-cli-monitor](https://github.com/p-matrix/gemini-cli-monitor)**
+> Source: **[p-matrix/gemini-cli-monitor](https://github.com/p-matrix/gemini-cli-monitor)**
 
 #### Shared Capabilities
 
@@ -57,7 +57,19 @@ npm install -g @pmatrix/gemini-cli-monitor
 - ☠️ **Kill Switch** — terminates runaway agents instantly
 - 📊 **Live Grade A–E** — real-time risk trajectory via 4-axis coordinate system
 
-→ Dashboard: **[app.pmatrix.io](https://app.pmatrix.io)**
+> Dashboard: **[app.pmatrix.io](https://app.pmatrix.io)**
+
+---
+
+### Shared Runtime
+
+#### Field Node Runtime
+
+[![npm](https://img.shields.io/npm/v/@pmatrix/field-node-runtime?label=%40pmatrix%2Ffield-node-runtime&color=blue)](https://www.npmjs.com/package/@pmatrix/field-node-runtime)
+
+State Vector exchange, peer verification, and local decision engine — shared across all CLI monitors.
+
+> Source: **[p-matrix/field-node-runtime](https://github.com/p-matrix/field-node-runtime)**
 
 ---
 
