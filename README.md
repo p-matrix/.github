@@ -1,6 +1,6 @@
 ## P-MATRIX
 
-The Coordinate System & Protocol for Autonomous Agent Runtime Governance.
+AI-native system for the Agentic Web
 
 ### Specification
 - 📄 [3.5 Runtime State Paper](https://doi.org/10.5281/zenodo.18682846) · [Schema](https://pmatrix.io/schema/runtime-state/1.0.0/schema.json)
@@ -11,4 +11,4 @@ The Coordinate System & Protocol for Autonomous Agent Runtime Governance.
 - 🔧 [pmatrix-protocol-encoder v0.1.1](https://github.com/p-matrix/pmatrix-protocol-encoder) — 4.0 Protocol
 
 ### Links
-- 🌐 [pmatrix.io](https://pmatrix.io)
+- 🌐 [p-matrix.io](https://p-matrix.io/)
